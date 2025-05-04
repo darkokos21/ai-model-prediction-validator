@@ -47,4 +47,4 @@ This script:
 - Expand to handle larger datasets and more complex models.
 
 ## Contact
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) for collaboration or hiring opportunities!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/darkokostov) for collaboration or hiring opportunities!
